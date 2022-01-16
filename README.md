@@ -1,5 +1,5 @@
 # Object_Detection_Tensorflow
-# Install Anaconda Python Distribution
+Install Anaconda Python Distribution
 Install Visual C++ Redistributable
 Using Anaconda create Tensorflow environment : conda create -n tf_gpu Python=3.9
 Activate Virtual environment : conda activate tf_gpu
